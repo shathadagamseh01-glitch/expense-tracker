@@ -1,0 +1,19 @@
+ body {
+  background-color: #f4f6f8;
+}
+
+.card {
+  border: none;
+  border-radius: 10px;
+}
+
+.table {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.badge-Food { background-color: #4caf50; }
+.badge-Transport { background-color: #2196f3; }
+.badge-Bills { background-color: #ff9800; }
+.badge-Entertainment { background-color: #9c27b0; }
+.badge-Other { background-color: #607d8b; }
